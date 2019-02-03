@@ -93,7 +93,7 @@ public class MetalArt {
 		
 			Surface Area for the Triangular Pyramids: 
 			
-  			areaPyramid = B + (1/2) + (3*b*l);
+  			areaPyramid = B + (1/2) * (3*b*l);
 
   			areaBase = (1/2) * b * Math.sqrt(Math.pow(b,2) - Math.pow(((1/2) * b), 2));
 
