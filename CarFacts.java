@@ -123,8 +123,8 @@ public class CarFacts {
 
     	}
 
-			// calcMileageRating Method
-			public static double calcMileageRating(int numMiles, double tankSize) {
+		// calcMileageRating Method
+		public static double calcMileageRating(int numMiles, double tankSize) {
     			
     			// mileageRating equation
     			double mileageRating = numMiles / tankSize;
@@ -141,10 +141,10 @@ public class CarFacts {
     			return overallValue; // return value
    			 }
 
-   			// displayData Method
-   			public static void displayData(String makeModel, double mileageRating, double overallValue, PrintWriter out) {
+   		// displayData Method
+   		public static void displayData(String makeModel, double mileageRating, double overallValue, PrintWriter out) {
 
-   			// Outputting makeModel and mpg and value
+   		// Outputting makeModel and mpg and value
     		out.print(makeModel + "\t");
     		out.printf("%5.2f", mileageRating);
     		out.print(" mpg  \t Value:  "); 
