@@ -107,7 +107,7 @@ public class CarFacts {
     	    // Output to the output file
     		out.println("...");
     		out.println();
-       		out.printf("The car with the best gas mileage rating is " + bestMileageRatingCar + " with a rating of: ");
+       		out.print("The car with the best gas mileage rating is " + bestMileageRatingCar + " with a rating of: ");
         	out.printf("%5.2f\n", bestMileageRating);
         	out.println();
         	out.print("The car with the best price is " + lowestPriceCar + " with a price of: $");
