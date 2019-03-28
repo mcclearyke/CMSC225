@@ -95,7 +95,7 @@ public static void main (String [] args) throws FileNotFoundException, NumberFor
 			i++; //Increment to keep the loop going 
 		}
 
-			//Declaring the return/passed in values before calling the methods
+		//Declaring the return/passed in values before calling the methods
       		String highest;
       		double average;
       		String text; //Put before the displayData method
@@ -104,9 +104,9 @@ public static void main (String [] args) throws FileNotFoundException, NumberFor
 			Calling Methods
 			**************/
 
-			//Calling methods for percWhite
-			text = "The institution with the highest White population is: ";
-			findHighest(institution, percWhite); // Calling findHighest Method
+		//Calling methods for percWhite
+		text = "The institution with the highest White population is: ";
+		findHighest(institution, percWhite); // Calling findHighest Method
 				highest = findHighest(institution, percWhite); //return vlaue
        		findAverage(percWhite); //Calling findAverage Method
        			average = findAverage(percWhite); //return value
@@ -137,15 +137,15 @@ public static void main (String [] args) throws FileNotFoundException, NumberFor
       			highest = findHighest(institution, percAsian); //return vlaue
       		findAverage(percAsian); //Calling findAverage Method
       			average = findAverage(percAsian); //return vlaue
-      	    displayData(text, highest, average, out); //Calling displayData Method
+      	        displayData(text, highest, average, out); //Calling displayData Method
 
 
       		//Calling method for percAmericanIndian
       		text = "The institution with the highest American Indian or Alaska Native population is: ";
       		findHighest(institution, percAmericanIndian); // Calling findHighest Method
       			highest = findHighest(institution, percAmericanIndian); //return vlaue
-      	    findAverage(percAmericanIndian); //Calling findAverage Method
-      	    	average = findAverage(percAmericanIndian); //return vlaue
+      	        findAverage(percAmericanIndian); //Calling findAverage Method
+      	    		average = findAverage(percAmericanIndian); //return vlaue
        		displayData(text, highest, average, out); //Calling displayData Method
 
 
