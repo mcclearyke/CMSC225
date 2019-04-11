@@ -141,12 +141,12 @@ public class WeeklyPayroll {
     			//Loop for taking the j value in hoursWorked
     			for (int j = 0; j < hoursWorked[i].length; j++) {
 
-    				sumRow += hoursWorked[i][j];
+    				sumRow = sunRow + hoursWorked[i][j];
 
     			}
 
     			//Filling grossPay[]
-    			grossPay[i] = sumRow * HOURLY_RATE;	
+    			grossPay[i] = (sumRow * HOURLY_RATE);	
     	}
 
     	return grossPay; //Return value
