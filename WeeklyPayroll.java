@@ -43,8 +43,8 @@ public class WeeklyPayroll {
             try {
             
             /*********************************
-			Creating the commandline arguments
-			**********************************/
+	    Creating the commandline arguments
+	    **********************************/
 
             	//input file
             	inputFileName = args[0];
@@ -65,9 +65,9 @@ public class WeeklyPayroll {
           	}
 
           	//Catching the exception when given the wrong input file
-            catch(FileNotFoundException exception) {
-            	System.out.println("File not found, Please try again");
-            	System.out.println();
+            	catch(FileNotFoundException exception) {
+            		System.out.println("File not found, Please try again");
+            		System.out.println();
           	}
 
         }
@@ -76,19 +76,19 @@ public class WeeklyPayroll {
     public static void parseData(File input, File output, int numRows) throws FileNotFoundException {
     	
     	//Reading in/out the File for the loop
-		Scanner in = new Scanner(input);
-		PrintWriter out = new PrintWriter(output);
+	Scanner in = new Scanner(input);
+	PrintWriter out = new PrintWriter(output);
 
     	/***********************************************
-		Stating the array's needed based off of the file
-		************************************************/
+	Stating the array's needed based off of the file
+	************************************************/
 
     	String[] employee = new String[numRows]; //Array for the name of the employees
     	int[][] hoursWorked = new int[numRows][numRows]; //Array for the amount of hours worked
     	
     		/*******************************
-			Reading the data into the arrays
-			********************************/
+		Reading the data into the arrays
+		********************************/
     	    while (in.hasNext()) {
            	
             	for (int i = 0; i < numRows; i++) {
@@ -102,11 +102,10 @@ public class WeeklyPayroll {
                   		//filling the hoursWorked array
                  		hoursWorked[i][j] = in.nextInt();
                 	}
-            	}
+            	  }
+             }
 
-          	}
-
-    		/**************
+    			/**************
 			Calling Methods
 			**************/
 
@@ -129,6 +128,7 @@ public class WeeklyPayroll {
     }
 
     public static double[] clacGrossPay(int[][] hoursWorked) {
+   
     //Calculate gross pay for each employee - TAKE THE SUM OF EACH ROW - USE i TO FILL
     double[] grossPay = new double[hoursWorked.length]; 
     final double HOURLY_RATE = 9.50;
@@ -153,19 +153,20 @@ public class WeeklyPayroll {
    }
 
    public static int[] calcDayTally(int[][] hoursWorked) {
-   	//Calculate the total number of days worked - TAKE THE SUM OF EACH COL - USE j TO FILL
-   		int[] dayTally = new int[hoursWorked.length];
+   
+   //Calculate the total number of days worked - TAKE THE SUM OF EACH COL - USE j TO FILL
+   int[] dayTally = new int[hoursWorked.length];
 
-   			//Loop for taking the i value in hoursWorked
-   			for (int i = 0; i < hoursWorked.length; i++) {
+   		//Loop for taking the i value in hoursWorked
+   		for (int i = 0; i < hoursWorked.length; i++) {
    				
-   				//Loop for taking the j value in hoursWorked
-   				for (int j = 0; j < hoursWorked[i].length; j++) {
+   			//Loop for taking the j value in hoursWorked
+   			for (int j = 0; j < hoursWorked[i].length; j++) {
    					
-   					//filling dayTally[]
-   					dayTally[j] += hoursWorked[i][j];	
-   				}
+   				//filling dayTally[]
+   				dayTally[j] += hoursWorked[i][j];	
    			}
+   		}
 
   		return dayTally; //Return value
   	}
@@ -196,22 +197,3 @@ public class WeeklyPayroll {
 
   	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
