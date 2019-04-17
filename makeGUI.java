@@ -30,7 +30,7 @@ public class FinalGUI extends Application {
         launch(args);
     }
 
-private void start(Stage primaryStage) throws Exception {
+public void start(Stage primaryStage) throws Exception {
 	window = primaryStage;
 	Scene scene = null;
 	GridPane gridPane = null;
