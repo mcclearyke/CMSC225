@@ -49,36 +49,37 @@ double lengthValue2 = 0;
         final double KILO_TO_CENTI = 100000; // MULTIPLY
         final double KILO_TO_METERS = 1000; // MULTIPLY
 
+
     /*******************************
     Calculations if INCH is Selected
     ********************************/
 
     	//INCHES AND FEET
-        if (lengthSelection1.getSelectedIndex() == 0 && lengthSelection2.getSelectedIndex() == 1) {
+        if (lengthSelection1.getValue() == "Inches" && lengthSelection2.getValue() == "Feet") {
           
             lengthValue2 = lengthValue1 / INCHES_TO_FEET ;
         }
         
         //INCHES TO MILES
-        if (lengthSelection1.getSelectedIndex() == 0 && lengthSelection2.getSelectedIndex() == 2) {
+        if (lengthSelection1.getValue() == "Inches" && lengthSelection2.getValue() == "Miles") {
             
             lengthValue2 = lengthValue1 / INCHES_TO_MILE;
         }
         
         //INCHES TO CENTIMETERS
-        if (lengthSelection1.getSelectedIndex() == 0 && lengthSelection2.getSelectedIndex() == 3) {
+        if (lengthSelection1.getValue() == "Inches" && lengthSelection2.getValue() == "Centimeters") {
             
             lengthValue2 = lengthValue1 * INCHES_TO_CENTI;
         }
         
         //INCHES TO METERS
-        if (lengthSelection1.getSelectedIndex() == 0 && lengthSelection2.getSelectedIndex() == 4) {
+        if (lengthSelection1.getValue() == "Inches" && lengthSelection2.getValue() == "Meters") {
             
             lengthValue2 = lengthValue1 / INCHES_TO_METERS;
         }
         
         //INCHES TO KILOMETERS
-        if (lengthSelection1.getSelectedIndex() == 0 && lengthSelection2.getSelectedIndex() == 5) {
+        if (lengthSelection1.getValue() == "Inches" && lengthSelection2.getValue() == "Kilometers") {
             lengthValue2 = lengthValue1 / INCHES_TO_KILOMETERS;
         }
 
@@ -87,27 +88,27 @@ double lengthValue2 = 0;
     ********************************/
 
         //FEET TO INCHES
-        if (lengthSelection1.getSelectedIndex() == 1 && lengthSelection2.getSelectedIndex() == 0) {
+        if (lengthSelection1.getValue() == "Feet" && lengthSelection2.getValue() == "Inches") {
             lengthValue2 = lengthValue1 * FEET_TO_INCHES;
         }
         
         //FEET TO MILES
-        if (lengthSelection1.getSelectedIndex() == 1 && lengthSelection2.getSelectedIndex() == 2) {
+        if (lengthSelection1.getValue() == "Feet" && lengthSelection2.getValue() == "Miles") {
             lengthValue2 = lengthValue1 / FEET_TO_MILE;
         }
         
         //FEET TO CENTIMETERS
-        if (lengthSelection1.getSelectedIndex() == 1 && lengthSelection2.getSelectedIndex() == 3) {
+        if (lengthSelection1.getValue() == "Feet" && lengthSelection2.getValue() == "Centimeters") {
             lengthValue2 = lengthValue1 * FEET_TO_CENTI;
         }
 
         //FEET TO METERS
-        if (lengthSelection1.getSelectedIndex() == 1 && lengthSelection2.getSelectedIndex() == 4) {
+        if (lengthSelection1.getValue() == "Feet" && lengthSelection2.getValue() == "Meters") {
             lengthValue2 = lengthValue1 / FEET_TO_METERS;
         }
 
         //FEET TO KILOMETERS
-        if (lengthSelection1.getSelectedIndex() == 1 && lengthSelection2.getSelectedIndex() == 5) {
+        if (lengthSelection1.getValue() == "Feet" && lengthSelection2.getValue() == "Kilometers") {
             lengthValue2 = lengthValue1 / FEET_TO_KILOMETERS;
         }
         
@@ -116,27 +117,27 @@ double lengthValue2 = 0;
     ********************************/
 
         //MILES TO INCHES
-        if (lengthSelection1.getSelectedIndex() == 2 && lengthSelection2.getSelectedIndex() == 0) {
+        if (lengthSelection1.getValue() == "Miles" && lengthSelection2.getValue() == "Inches") {
             lengthValue2 = lengthValue1 * MILE_TO_INCHES
         }
         
         //MILES TO FEET
-        if (lengthSelection1.getSelectedIndex() == 2 && lengthSelection2.getSelectedIndex() == 1) {
+        if (lengthSelection1.getValue() == "Miles" && lengthSelection2.getValue() == "Feet") {
             lengthValue2 = lengthValue1 * MILE_TO_FEET;
         }
         
         //MILES TO CENTIMETERS
-        if (lengthSelection1.getSelectedIndex() == 2 && lengthSelection2.getSelectedIndex() == 3 ) {
+        if (lengthSelection1.getValue() == "Miles" && lengthSelection2.getValue() == "Centimeters" ) {
             lengthValue2 = lengthValue1 * MILE_TO_CENTI;
         }
         
         //MILES TO METERS
-        if (lengthSelection1.getSelectedIndex() == 2 && lengthSelection2.getSelectedIndex() == 4) {
+        if (lengthSelection1.getValue() == "Miles" && lengthSelection2.getValue() == "Meters") {
             lengthValue2 = lengthValue1 * MILE_TO_METERS;
         }
 
         //MILES TO KILOMETERS
-        if (lengthSelection1.getSelectedIndex() == 2 && lengthSelection2.getSelectedIndex() == 5) {
+        if (lengthSelection1.getValue() == "Miles" && lengthSelection2.getValue() == "Kilometers") {
             lengthValue2 = lengthValue1 * MILE_TO_KILOMETERS;
         }
 
@@ -145,27 +146,27 @@ double lengthValue2 = 0;
     *********************************/
 
         //CENTIMETERS TO INCHES
-        if (lengthSelection1.getSelectedIndex() == 3 && lengthSelection2.getSelectedIndex() == 0) {
+        if (lengthSelection1.getValue() == "Centimeters" && lengthSelection2.getValue() == "Inches") {
             lengthValue2 = lengthValue1 / CENTI_TO_INCHES;
         }
 
         //CENTIMETERS TO FEET
-        if (lengthSelection1.getSelectedIndex() == 3 && lengthSelection2.getSelectedIndex() == 1) {
+        if (lengthSelection1.getValue() == "Centimeters" && lengthSelection2.getValue() == "Feet") {
             lengthValue2 = lengthValue1 / CENTI_TO_FEET;
         }
         
         //CENTIMETERS TO MILES
-        if (lengthSelection1.getSelectedIndex() == 3 && lengthSelection2.getSelectedIndex() == 2) {
+        if (lengthSelection1.getValue() == "Centimeters" && lengthSelection2.getValue() == "Miles") {
             lengthValue2 = lengthValue1 / CENTI_TO_MILES;
         }
         
         //CENTIMETERS TO METERS
-        if (lengthSelection1.getSelectedIndex() == 3 && lengthSelection2.getSelectedIndex() == 4) {
+        if (lengthSelection1.getValue() == "Centimeters" && lengthSelection2.getValue() == "Meters") {
             lengthValue2 = lengthValue1 / CENTI_TO_METERS;
         }
        
        	//CENTIMETERS TO KILOMETERS
-        if (lengthSelection1.getSelectedIndex() == 3 && lengthSelection2.getSelectedIndex() == 5) {
+        if (lengthSelection1.getValue() == "Centimeters" && lengthSelection2.getValue() == "Kilometers") {
             lengthValue2 = lengthValue1 / CENTI_TO_KIL0METERS;
         }
         
@@ -174,27 +175,27 @@ double lengthValue2 = 0;
     ********************************/
        
         //METERS TO INCHES
-        if (lengthSelection1.getSelectedIndex() == 4 && lengthSelection2.getSelectedIndex() == 0) {
+        if (lengthSelection1.getValue() == "Meters" && lengthSelection2.getValue() == "Inches") {
             lengthValue2 = lengthValue1 * METERS_TO_INCHES;
         }
         
         //METERS TO FEET
-        if (lengthSelection1.getSelectedIndex() == 4 && lengthSelection2.getSelectedIndex() == 1) {
+        if (lengthSelection1.getValue() == "Meters" && lengthSelection2.getValue() == "Feet") {
             lengthValue2 = lengthValue1 * METERS_TO_FEET;
         }
 
         //METERS TO MILES
-        if (lengthSelection1.getSelectedIndex() == 4 && lengthSelection2.getSelectedIndex() == 2) {
+        if (lengthSelection1.getValue() == "Meters" && lengthSelection2.getValue() == "Miles") {
             lengthValue2 = lengthValue1 / METERS_TO_MILES;
         }
         
         //METERS TO CENTIMETERS
-        if (lengthSelection1.getSelectedIndex() == 4 && lengthSelection2.getSelectedIndex() == 3) {
+        if (lengthSelection1.getValue() == "Meters" && lengthSelection2.getValue() == "Centimeters") {
             lengthValue2 = lengthValue1 * METERS_TO_CENTI;
         }
         
         //METERS TO KILOMETERS
-        if (lengthSelection1.getSelectedIndex() == 4 && lengthSelection2.getSelectedIndex() == 5) {
+        if (lengthSelection1.getValue() == "Meters" && lengthSelection2.getValue() == "Kilometers") {
             lengthValue2 = lengthValue1 / METERS_TO_KILOMETERS;
         }
         
@@ -203,27 +204,27 @@ double lengthValue2 = 0;
     ********************************/
 
         //KILOMETERS TO INCHES
-        if (lengthSelection1.getSelectedIndex() == 5 & lengthSelection2.getSelectedIndex() == 0) {
+        if (lengthSelection1.getValue() == "Kilometers" & lengthSelection2.getValue() == "Inches") {
             lengthValue2 = lengthValue1 * KILO_TO_INCHES;
         }
        
         //KILOMETERS TO FEET
-        if (lengthSelection1.getSelectedIndex() == 5 & lengthSelection2.getSelectedIndex() == 1) {
+        if (lengthSelection1.getValue() == "Kilometers" & lengthSelection2.getValue() == "Feet") {
             lengthValue2 = lengthValue1 * KILO_TO_FEET;
         }
         
         //KILOMETERS TO MILES
-        if (lengthSelection1.getSelectedIndex() == 5 & lengthSelection2.getSelectedIndex() == 2) {
+        if (lengthSelection1.getValue() == "Kilometers" & lengthSelection2.getValue() == "Miles") {
             lengthValue2 = lengthValue1 / KILO_TO_MILES;
         }
         
         //KILOMETERS TO CENTIMETERS
-        if (lengthSelection1.getSelectedIndex() == 5 & lengthSelection2.getSelectedIndex() == 3) {
+        if (lengthSelection1.getValue() == "Kilometers" & lengthSelection2.getValue() == "Centimeters") {
             lengthValue2 = lengthValue1 * KILO_TO_CENTI;
         }
         
         //KILOMETERS TO METERS
-        if (lengthSelection1.getSelectedIndex() == 5 & lengthSelection2.getSelectedIndex() == 4) {
+        if (lengthSelection1.getValue() == "Kilometers" & lengthSelection2.getValue() == "Meters") {
             lengthValue2 = lengthValue1 * KILO_TO_METERS;
         }
         
