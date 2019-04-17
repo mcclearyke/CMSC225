@@ -23,6 +23,7 @@ public class FinalGUI extends Application {
 	private Button clearButton;
 	private ChoiceBox<String> lengthSelection1;
 	private ChoiceBox<String> lengthSelection2;
+	private Stage window;
 
 
     public static void main(String[] args) {
@@ -30,6 +31,7 @@ public class FinalGUI extends Application {
     }
 
 private void start(Stage primaryStage) throws Exception {
+	window = primaryStage;
 	Scene scene = null;
 	GridPane gridPane = null;
 
@@ -57,11 +59,23 @@ private void start(Stage primaryStage) throws Exception {
 	clearButton = new Button("Clear");
 
 	//ChoiceBox
-	String[] lengths = {"Inches","Feet","Miles","Centimeters","Meters","Kilometers"};
-	lengthSelection1 = new ChoiceBox<>(lengths);
-		lengthSelection1.setValue("Inches"); 
-	lengthSelection2 = new ChoiceBox<>(lengths);
-		lengthSelection2.setValue("Inches");
+	lengthSelection2 = new ChoiceBox<>();
+		lengthSelection1.getItems().add("Inches");
+        lengthSelection1.getItems().add("Feet");
+        lengthSelection1.getItems().add("Miles");
+        lengthSelection1.getItems().add("Centimeters");
+        lengthSelection1.getItems().add("Meters");
+        lengthSelection1.getItems().add("Kilometers");
+			lengthSelection1.setValue("Inches"); 
+
+	lengthSelection2 = new ChoiceBox<>();
+		lengthSelection2.getItems().add("Inches");
+        lengthSelection2.getItems().add("Feet");
+        lengthSelection2.getItems().add("Miles");
+        lengthSelection2.getItems().add("Centimeters");
+        lengthSelection2.getItems().add("Meters");
+        lengthSelection2.getItems().add("Kilometers");
+			lengthSelection2.setValue("Inches"); 
 
 	//Making the grid
 	gridPane.setPadding(new Insets(10,10,10,10));
@@ -80,51 +94,11 @@ private void start(Stage primaryStage) throws Exception {
 	gridPane.add(clearButton, 4, 4);
 	
 	convertButton.setOnAction(new EventHandler<ActionEvent>() {
-		
+
 	}
 
-
-
-
-
-//Making the secne
-	//setLayout(new FlowLayout());
-
-	//String[] lengths = {"Inches","Feet","Miles","Centimeters","Meters","Kilometers"};
-
-	//length1Label = new Label("Select the length you'd like to convert: "); 
-	//add(length1Label);
-
-	//ChoiceBox<String> lengthSelection1 = new ChoiceBox<>(lengths);
-   // lengthSelection1.setSelectedIndex(0);
-    //lengthSelection1.setValue("Inches"); //Setting a defult
-	
-	//lengthValue1Label = new Label("Enter the length:  ");
-
-	//lengthAmount1 = new TextField(10);
-	//add(lengthAmount1);
-
-	//length2Label = new Label("Select the length you'd like to conevert to: ");
-
-	//ChoiceBox<String> lengthSelection2 = new ChoiceBox<>(lengths);
-    //lengthSelection2.setSelectedIndex(1);
-    //lengthSelection2.setValue("Inches"); //Setting a defult 
-
-	//convertButton = new Button("Convert");
-	//add(convertButton);
-	//	convertButton.addActionListener(this);
-
-	//conversionLabel = new Label("Converted length:  ");
-	//
-		//convertedLength = new TextField(10);
-	//add(convertedLength);
-
-	//clearButton = new Button("Clear");
-	//add(clearButton);
-
-	//setTitle("Length Converter");
-	//setSize(350, 400);
-	//setVisible(true);
+ 	  primaryStage.setScene(scene));   
+      primaryStage.setTitle("Length Converter"); 
+      primaryStage.show();        
 }
 }
-
