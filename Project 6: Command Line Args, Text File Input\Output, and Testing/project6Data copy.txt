@@ -1,0 +1,13 @@
+Joe Du 4 6 12 7 3 4 10
+Sam Say 5 6 3 8 6 8 8
+Sally Mae 8 8 8 8 8 8 8 
+Nu Duc 7 7 7 7 7 7 7
+Cindy Li 2 4 3 4 5 8 8
+Sue Um 7 3 4 3 3 4 4
+Cal Ro 3 3 4 3 3 2 2
+Will Gu 9 3 4 7 3 4 1
+Ben Yup 3 5 4 3 6 3 8
+Pat Qui 3 4 4 6 3 4 4
+Ed Han 3 7 4 8 3 8 4
+Tim Nim 6 3 5 9 2 7 9
+
