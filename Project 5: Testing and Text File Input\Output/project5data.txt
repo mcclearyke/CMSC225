@@ -1,0 +1,152 @@
+INSTITUTION	UGDS	UGDS_WHITE	UGDS_BLACK	UGDS_HISP	UGDS_ASIAN	UGDS_AIAN	UGDS_NHPI	UGDS_2MOR	UGDS_NRA	UGDS_UNKN
+Paul Mitchell the School-Roanoke	69	0.7536	0.1014	0.029	0.0145	0	0	0.058	0	0.0435	
+Advanced Technology Institute	606	0.4653	0.4076	0.0809	0.0231	0.0116	0	0.0116	0	0	
+Averett University	846	0.578	0.318	0.0284	0.0142	0.0083	0	0.0012	0.052	0	
+Blue Ridge Community College	3114	0.7775	0.0511	0.1028	0.0196	0.0035	0.0006	0.0315	0.0087	0.0048	
+Bluefield College	881	0.6254	0.2361	0.0431	0.0034	0	0.0023	0.0341	0.0431	0.0125	
+Bridgewater College	1871	0.6841	0.1325	0.0561	0.0123	0.0027	0.0005	0.0561	0.0118	0.0438	
+College of William and Mary	6245	0.591	0.0708	0.091	0.0788	0.0016	0.0002	0.0469	0.0597	0.06	
+Regent University	3448	0.5516	0.2694	0.0754	0.0186	0.007	0.0041	0.0539	0.0093	0.0107	
+Central School of Practical Nursing	33	0.5152	0.4242	0.0303	0.0303	0	0	0	0	0	
+Central Virginia Community College	2589	0.6848	0.2151	0.0328	0.0131	0.0027	0.0008	0.0417	0.0039	0.005	
+Christopher Newport University	4921	0.747	0.0764	0.048	0.0264	0.0043	0.0008	0.0471	0.0039	0.0461	
+Suffolk Beauty Academy	31	0.0645	0.871	0.0323	0.0323	0	0	0	0	0	
+Bryant & Stratton College-Virginia Beach	467	0.2099	0.6788	0.0364	0.0171	0.0107	0	0.045	0.0021	0	
+Bryant & Stratton College-Richmond	549	0.2277	0.6867	0.0291	0.0055	0.0055	0.0018	0.0437	0	0	
+Jefferson College of Health Sciences	756	0.7738	0.0926	0.0516	0.0225	0	0.0013	0.0397	0.004	0.0146	
+Dabney S Lancaster Community College	675	0.8726	0.0504	0.0193	0.0074	0.0044	0	0.037	0	0.0089	
+Danville Community College	1740	0.6029	0.3184	0.0402	0.008	0.0029	0.0023	0.0201	0.0017	0.0034	
+Centura College-Virginia Beach	129	0.2403	0.4341	0.1085	0.0388	0.0078	0.0078	0.155	0	0.0078	
+Emory & Henry College	1004	0.761	0.0936	0.0458	0.011	0.005	0.001	0.0189	0.008	0.0558	
+Eastern Mennonite University	1233	0.717	0.0884	0.0803	0.0178	0.0032	0	0.0284	0.0357	0.0292	
+Eastern Shore Community College	452	0.458	0.3584	0.1283	0.0088	0.0022	0.0044	0.0265	0.0111	0.0022	
+Ferrum College	1289	0.4942	0.3445	0.0551	0.0039	0.0085	0.0008	0.0628	0.0062	0.024	
+George Mason University	23179	0.4291	0.1092	0.1375	0.1944	0.0019	0.0041	0.0455	0.0486	0.0298	
+Germanna Community College	5054	0.6292	0.1518	0.1134	0.0305	0.0044	0.0034	0.0566	0.004	0.0069	
+Hampden-Sydney College	1027	0.8403	0.0467	0.037	0.0088	0.0039	0.0019	0.0351	0.0058	0.0204	
+Hampton University	3793	0.0129	0.9549	0.0119	0.0024	0.0026	0.0005	0	0.0148	0	
+Hollins University	655	0.6504	0.1206	0.0611	0.0214	0.0107	0.0015	0.0519	0.0473	0.0351	
+J Sargeant Reynolds Community College	8395	0.4604	0.3563	0.0631	0.0543	0.0043	0.0014	0.0391	0.0141	0.007	
+James Madison University	19262	0.7537	0.0459	0.0622	0.046	0.0012	0.0012	0.0402	0.0213	0.0281	
+John Tyler Community College	5938	0.5443	0.274	0.0906	0.0312	0.0061	0.0024	0.0419	0.003	0.0066	
+Everest College-Newport News	10	0.1	0.8	0	0	0	0.1	0	0	0	
+Liberty University	46680	0.4766	0.114	0.0498	0.0102	0.0045	0.0016	0.0196	0.0158	0.3078	
+Longwood University	4326	0.7534	0.095	0.0458	0.0109	0.0037	0.0007	0.0356	0.0143	0.0407	
+Lord Fairfax Community College	4063	0.7667	0.0566	0.1024	0.0175	0.0054	0.0007	0.0362	0.0064	0.0081	
+University of Lynchburg	1999	0.7339	0.1161	0.046	0.0125	0.0035	0	0.045	0.0235	0.0195	
+Centra College of Nursing	173	0.7803	0.1908	0.0173	0.0058	0	0	0.0058	0	0	
+Mary Baldwin University	1226	0.5489	0.2357	0.071	0.0212	0.0098	0.0033	0.0383	0.0212	0.0506	
+University of Mary Washington	4318	0.7043	0.072	0.0787	0.0377	0.0025	0.0009	0.0509	0.0093	0.0435	
+Marymount University	2304	0.3837	0.1467	0.1793	0.0734	0.0048	0.0039	0.0321	0.1428	0.0334	
+Danville Regional Medical Center School of Health Professions	9	1	0	0	0	0	0	0	0	0	
+Mountain Empire Community College	1595	0.958	0.0138	0.0119	0.0031	0.0019	0.0006	0.0088	0.0006	0.0013	
+American National University	1001	0.4565	0.2667	0.033	0.002	0.002	0	0.016	0.008	0.2158	
+New River Community College	2580	0.8302	0.0581	0.0341	0.0174	0.0039	0.0012	0.0267	0.0225	0.0058	
+Sentara College of Health Sciences	383	0.7128	0.0862	0.0287	0.1018	0	0.0104	0	0	0.0601	
+Tidewater Tech-Trades	316	0.2722	0.557	0.0823	0.0063	0.0032	0	0.0696	0	0.0095	
+Norfolk State University	4707	0.0395	0.8489	0.0336	0.0051	0.0021	0.0008	0.0425	0.0045	0.0229	
+Northern Virginia Community College	41340	0.342	0.1742	0.2323	0.1544	0.0023	0.0049	0.0399	0.0338	0.016	
+Old Dominion University	19606	0.4625	0.2909	0.0842	0.0445	0.0034	0.0029	0.066	0.0145	0.0312	
+Patrick Henry Community College	1643	0.6646	0.2301	0.0645	0.0055	0.0006	0.0006	0.0274	0.0049	0.0018	
+Paul D Camp Community College	719	0.4798	0.4437	0.0223	0.0056	0.0083	0.0014	0.0362	0	0.0028	
+Southside Regional Medical Center Professional Schools	109	0.7248	0.1835	0	0.0183	0	0	0	0	0.0734	
+Miller-Motte Technical College-Lynchburg	340	0.4088	0.5265	0.0118	0	0	0	0.0471	0	0.0059	
+Piedmont Virginia Community College	3372	0.6616	0.1557	0.0727	0.035	0.0033	0.0024	0.0454	0.0119	0.0122	
+Radford University	8426	0.6933	0.1521	0.07	0.0146	0.0023	0.0017	0.0493	0.008	0.0088	
+Sylvain Melloul International Hair Academy	68	0.75	0.2353	0.0147	0	0	0	0	0	0	
+Randolph-Macon College	1429	0.7845	0.0847	0.0427	0.0224	0.0035	0.0014	0.0378	0.0161	0.007	
+Randolph College	649	0.6949	0.1279	0.0555	0.0169	0.0015	0.0031	0.0447	0.0555	0	
+Rappahannock Community College	1530	0.6699	0.2124	0.0451	0.0111	0.0137	0.0013	0.0379	0	0.0085	
+Fortis College-Norfolk	298	0.1946	0.7517	0.0201	0.0067	0.0067	0	0.0067	0	0.0134	
+Richard Bland College of William and Mary	1089	0.3691	0.483	0.0184	0.0119	0.0018	0	0.0514	0.011	0.0533	
+Bon Secours Memorial College of Nursing	522	0.705	0.1322	0.0172	0.046	0.0038	0	0.0441	0	0.0517	
+University of Richmond	3229	0.5943	0.07	0.0749	0.0712	0.0025	0	0.0412	0.0845	0.0613	
+Riverside College of Health Careers	277	0.6787	0.1769	0.0253	0.0325	0	0.0072	0.0758	0	0.0036	
+Roanoke College	1946	0.8222	0.056	0.0432	0.0128	0.0031	0.0005	0.036	0.0257	0.0005	
+Bon Secours St Mary's Hospital School of Medical Imaging	26	0.8846	0	0	0.1154	0	0	0	0	0	
+Shenandoah University	2087	0.5673	0.1198	0.0661	0.0259	0.0072	0.001	0.0264	0.0402	0.1461	
+Southern Virginia University	779	0.7394	0.0372	0.0218	0.0103	0.0039	0.0141	0.0616	0.0064	0.1053	
+Southside Virginia Community College	1786	0.5437	0.3919	0.0224	0.005	0.0056	0.0028	0.0202	0.0011	0.0073	
+Southwest Virginia Community College	1758	0.9619	0.0131	0.0046	0.0034	0.004	0.0006	0.0114	0	0.0011	
+Staunton School of Cosmetology	23	1	0	0	0	0	0	0	0	0	
+Strayer University-Virginia	4460	0.2951	0.4693	0.0993	0.0439	0.0052	0.0045	0.0383	0.0092	0.0352	
+Sweet Briar College	320	0.7094	0.1	0.1	0.0188	0.0031	0.0031	0.0406	0.0188	0.0063	
+Thomas Nelson Community College	7511	0.4616	0.3549	0.0778	0.0297	0.0043	0.0039	0.058	0.002	0.0079	
+Tidewater Community College	20788	0.4569	0.3363	0.0838	0.0449	0.0055	0.0054	0.0544	0.0051	0.0077	
+The University of Virginia's College at Wise	1367	0.7696	0.1097	0.0205	0.0073	0.0029	0	0.0029	0	0.0871	
+Virginia Highlands Community College	1592	0.9171	0.0314	0.0214	0.005	0.0006	0	0.0214	0.0006	0.0025	
+Virginia Polytechnic Institute and State University	25725	0.6654	0.0397	0.0596	0.0999	0.0017	0.0012	0.0449	0.0583	0.0293	
+Virginia Western Community College	4506	0.745	0.1307	0.0419	0.0302	0.0027	0.0018	0.0382	0.0049	0.0047	
+Virginia Commonwealth University	22614	0.4827	0.1892	0.0879	0.1291	0.0025	0.0014	0.0587	0.0348	0.0138	
+University of Virginia-Main Campus	15963	0.5929	0.065	0.0635	0.1302	0.0011	0.0005	0.0445	0.0453	0.0571	
+Virginia Military Institute	1713	0.7992	0.0607	0.0584	0.042	0.0058	0.0041	0.0134	0.0158	0.0006	
+Virginia School of Hair Design	50	0.06	0.92	0	0	0	0.02	0	0	0	
+Virginia University of Lynchburg	342	0.0117	0.9766	0.0088	0	0	0	0	0	0.0029	
+Virginia State University	4155	0.0161	0.6082	0.014	0.0051	0.0031	0	0	0.0024	0.3511	
+Virginia Union University	1355	0.0133	0.9306	0.0207	0	0.0044	0.0037	0	0.0022	0.0251	
+Virginia Wesleyan University	1342	0.5067	0.2534	0.0827	0.0127	0.0104	0.0015	0.0626	0.0075	0.0626	
+Washington and Lee University	1820	0.8308	0.0192	0.0368	0.0324	0	0	0.0324	0.039	0.0093	
+Wilson Workforce and Rehabilitation Center	177	0.5706	0.3051	0.0678	0.0113	0.0113	0.0056	0.0282	0	0	
+Wytheville Community College	1571	0.8797	0.0516	0.0318	0.0064	0.0038	0.0013	0.0229	0.0006	0.0019	
+ECPI University	11065	0.402	0.4169	0.095	0.0294	0.0114	0.006	0.0319	0	0.0075	
+Centura College-Newport News	154	0.1818	0.6688	0.0455	0	0.0065	0.013	0.0584	0	0.026	
+Centura College-Norfolk	107	0.2336	0.5981	0.0841	0	0.0093	0	0.0467	0	0.028	
+Virginia Beach City Public Schools School of Practical Nursing	31	0.4194	0.2258	0.0645	0.0645	0	0	0.2258	0	0	
+Fortis College-Richmond	398	0.1784	0.7337	0.0226	0.0226	0	0	0.0226	0	0.0201	
+Graham Webb International Academy of Hair	94	0.4574	0.3723	0.0213	0.0319	0	0.0106	0	0	0.1064	
+Argosy University-Northern Virginia	82	0.0732	0.6585	0.1585	0.061	0	0	0	0.0122	0.0366	
+Centura College-Chesapeake	203	0.2808	0.5665	0.0493	0	0	0	0.0739	0	0.0296	
+CET-Alexandria	150	0.04	0.6867	0.1333	0.14	0	0	0	0	0	
+Aviation Institute of Maintenance-Chesapeake	184	0.4239	0.3478	0.0761	0.0272	0	0.0217	0.0707	0	0.0326	
+Centura College-Richmond Main	96	0.0729	0.3542	0.0417	0.4375	0.0104	0.0417	0.0417	0	0	
+Virginia School of Massage	77	0.6104	0.1818	0.0909	0.013	0	0	0.026	0	0.0779	
+Cayce/Reilly School of Massage	47	0.6383	0.234	0.0638	0.0213	0	0	0.0426	0	0	
+Henrico County-Saint Marys Hospital School of Practical Nursing	83	0.2289	0.5783	0.1084	0.0241	0	0.0361	0.012	0	0.012	
+University of Management and Technology	950	0.2242	0.16	0.0684	0.1884	0.0032	0.0147	0.0232	0	0.3179	
+Chester Career College	162	0.2346	0.7222	0.0309	0.0062	0.0062	0	0	0	0	
+Stratford University	2243	0.1846	0.5845	0.0758	0.0468	0.0232	0.0031	0.0107	0	0.0713	
+Altierus Career College-Chesapeake	225	0.2133	0.6444	0.04	0.0133	0	0.0133	0.0533	0	0.0222	
+The Art Institute of Washington	666	0.1787	0.5135	0.1637	0.033	0.009	0.0045	0	0.0255	0.0721	
+Eastern Virginia Career College	219	0.6575	0.2511	0.0548	0.0046	0	0	0.0274	0	0.0046	
+Rudy & Kelly Academy-A Paul Mitchell Partner School	144	0.6111	0.2014	0.0556	0.0208	0.0069	0.0069	0.0972	0	0	
+University of the Potomac-VA Campus	36	0.1944	0.0556	0.0556	0.0833	0.0278	0	0	0.5278	0.0556	
+Empire Beauty School-Midlothian	67	0.3284	0.4925	0.0896	0	0.0149	0	0.0448	0	0.0299	
+Aviation Institute of Maintenance-Manassas	163	0.2025	0.4049	0.2209	0.0368	0	0	0.0982	0	0.0368	
+Culpeper Cosmetology Training Center	57	0.5614	0.386	0.0351	0.0175	0	0	0	0	0	
+Avi Career Training	26	0.6538	0.1154	0.1154	0.0769	0	0	0	0.0385	0	
+Virginia Beach Theological Seminary	1	1	0	0	0	0	0	0	0	0	
+Averett University-Non-Traditional Programs	490	0.5102	0.3673	0.0224	0.0163	0.0102	0.002	0	0.0041	0.0673	
+Paul Mitchell the School-Mclean	202	0.3465	0.3812	0.0743	0.0644	0	0	0.0941	0.0297	0.0099	
+Empire Beauty School-Richmond	85	0.2706	0.6118	0.0471	0.0118	0	0	0	0	0.0588	
+Dominion School of Hair Design	41	0.9268	0.0732	0	0	0	0	0	0	0	
+Global Health College	333	0.0541	0.8078	0.033	0.045	0	0	0.027	0.033	0	
+Columbia College	360	0.1139	0.0111	0.1028	0.4389	0	0	0.0056	0.3278	0	
+The Art Institute of Washington-Dulles	53	0.3585	0.283	0.1509	0.1509	0.0189	0.0189	0	0	0.0189	
+Bethel College	54	0.3889	0.463	0.0926	0.0556	0	0	0	0	0	
+Institute of Advanced Medical Esthetics	24	0.75	0.0833	0.0833	0.0833	0	0	0	0	0	
+The Art Institute of Virginia Beach	453	0.3576	0.4503	0.1015	0.0199	0.0221	0.0221	0.0044	0.0022	0.0199	
+Bryant & Stratton College-Hampton	337	0.089	0.8516	0.0208	0.003	0.003	0.0059	0.0267	0	0	
+South University-Richmond	560	0.3696	0.4804	0.0571	0.0268	0.0214	0.0054	0	0.0054	0.0339	
+South University-Virginia Beach	520	0.3288	0.4519	0.0923	0.0712	0.0173	0.0115	0	0	0.0269	
+Virginia International University	88	0.0114	0	0.0114	0.0341	0	0	0	0.8636	0.0795	
+Chamberlain University-Virginia	544	0.2353	0.4779	0.1195	0.1085	0	0.0074	0.011	0.0147	0.0257	
+Virginia College-Richmond	348	0.1178	0.75	0.046	0.0086	0	0	0.0201	0	0.0575	
+Northern Virginia School of Therapeutic Massage	153	0.4183	0.2353	0.1307	0.1961	0	0	0.0196	0	0	
+Cosmopolitan Beauty and Tech School	107	0	0	0.0093	0.9626	0	0	0	0.0187	0.0093	
+Miller-Motte Technical College-Roanoke	256	0.5273	0.3711	0.0234	0.0078	0	0	0.0586	0	0.0117	
+Empire Beauty School-Virginia Beach	157	0.1783	0.5987	0.0446	0.0255	0	0	0.051	0	0.1019	
+Tomorrow's Image Barber And Beauty Academy of Virginia	14	0	1	0	0	0	0	0	0	0	
+Columbia College	154	0.1818	0.0455	0.1818	0.4416	0	0	0.039	0.1104	0	
+Altierus Career College-Woodbridge	255	0.1098	0.4235	0.3333	0.051	0.0039	0	0.0745	0	0.0039	
+Paul Mitchell the School-Woodbridge	126	0.3968	0.3571	0.1349	0.0079	0	0	0.0714	0	0.0317	
+The Chrysm Insitute of Esthetics	122	0.541	0.2213	0.0574	0.0492	0	0	0.1311	0	0	
+Virginia Baptist College	75	0.68	0.12	0.08	0.04	0	0	0.0267	0.0533	0	
+DeVry University-Virginia	369	0.2791	0.3631	0.1545	0.0352	0.0081	0.0054	0.0027	0.0136	0.1382	
+Luckes Beauty Academy LLC	38	0.0789	0.8421	0.0263	0.0526	0	0	0	0	0	
+IGlobal University	199	0	0.005	0	0.0151	0	0	0	0.9799	0	
+National Personal Training Institute	61	0.3279	0.459	0.082	0.0656	0.0328	0	0.0164	0	0.0164	
+Standard Healthcare Services-College of Nursing	259	0.027	0.8687	0.027	0.0734	0	0	0.0039	0	0	
+University of Phoenix-Virginia	394	0.1091	0.1472	0.0584	0.0051	0	0	0.0254	0.0076	0.6472	
+Dermal Science International Aesthetics and Nail Academy	130	0.3692	0.2692	0.0231	0.1538	0	0.0077	0.1769	0	0	
+Saint Michael College of Allied Health	41	0	1	0	0	0	0	0	0	0	
+Wave Leadership College	61	0.6885	0.1148	0.0984	0.0164	0.0328	0	0.0492	0	0	
